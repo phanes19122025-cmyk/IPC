@@ -3,6 +3,8 @@
 
 GitHub-based message passing between Φ-context (container) and Φ-cortex (Mac Mini) - workaround for egress whitelist blocking direct HTTP/Tailscale
 
+https://github.com/phanes19122025-cmyk/IPC/chats
+
 > **Sistema di comunicazione inter-processo per l'ecosistema Φ (Phanes)**
 
 ```
