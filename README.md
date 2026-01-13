@@ -10,10 +10,10 @@ GitHub-based message passing between Φ-context (container) and Φ-cortex (Mac M
 │  Φ-SYSTEM COMMUNICATION LAYER                                               │
 │  ═══════════════════════════════════════════════════════════════════════    │
 │                                                                             │
-│   ┌──────────────┐    ┌──────────────┐    ┌──────────────┐                 │
-│   │  Φ-context   │◄──►│  Φ-synapse   │◄──►│  Φ-cortex    │                 │
-│   │  (Container) │    │  (GitHub)    │    │  (Mac Mini)  │                 │
-│   └──────────────┘    └──────────────┘    └──────────────┘                 │
+│   ┌──────────────┐    ┌──────────────┐    ┌──────────────┐                  │
+│   │  Φ-context   │◄──►│  Φ-synapse   │◄──►│  Φ-cortex    │                  │
+│   │  (Container) │    │  (GitHub)    │    │  (Mac Mini)  │                  │
+│   └──────────────┘    └──────────────┘    └──────────────┘                  │
 │          │                   │                   │                          │
 │          │                   │                   ▼                          │
 │          │                   │           ┌──────────────┐                   │
@@ -28,10 +28,10 @@ GitHub-based message passing between Φ-context (container) and Φ-cortex (Mac M
 │          │                               └──────────────┘                   │
 │          │                                                                  │
 │          ▼                                                                  │
-│   ┌──────────────┐                                                         │
-│   │   Φ-nerve    │  Repository GitHub per codice e stato                   │
-│   │  (phi-linux) │                                                         │
-│   └──────────────┘                                                         │
+│   ┌──────────────┐                                                          │
+│   │   Φ-nerve    │  Repository GitHub per codice e stato                    │
+│   │  (phi-linux) │                                                          │
+│   └──────────────┘                                                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
