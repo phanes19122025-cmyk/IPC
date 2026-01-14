@@ -1,0 +1,10 @@
+{
+  "ts": "2026-01-14T01:12:27Z",
+  "container_id": "01Q9T7pt3DHCqfYKM7bgNggs",
+  "action": "ping",
+  "payload": {
+    "source": "claude_sandbox",
+    "target": "daemon_phanes",
+    "msg": "Connection test from container"
+  }
+}
