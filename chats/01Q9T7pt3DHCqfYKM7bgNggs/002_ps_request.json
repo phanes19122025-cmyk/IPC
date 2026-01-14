@@ -1,0 +1,11 @@
+{
+  "ts": "2026-01-14T01:23:47Z",
+  "id": "002",
+  "container_id": "01Q9T7pt3DHCqfYKM7bgNggs",
+  "action": "shell",
+  "payload": {
+    "cmd": "ps aux",
+    "timeout": 30
+  },
+  "status": "pending"
+}
